@@ -19,9 +19,9 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 Users should be able to:
 
--View the optimal layout for the app depending on their device's screen size
--See hover states for all interactive elements on the page
--Generate a new piece of advice by clicking the dice icon
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
 
@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/advice-generator-app-with-html-css-and-js-BkO4RydB9)
-- Live Site URL: [Live site URL](https://sanketcharanpahadi.github.io/advice-generator-app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-app-with-html-css-and-js-BkO4RydB9](https://www.frontendmentor.io/solutions/advice-generator-app-with-html-css-and-js-BkO4RydB9)
+- Live Site URL: [https://sanketcharanpahadi.github.io/advice-generator-app/](https://sanketcharanpahadi.github.io/advice-generator-app/)
 
 ## My process
 
