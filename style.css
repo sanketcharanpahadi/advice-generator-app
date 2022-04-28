@@ -38,6 +38,7 @@ main {
   text-align: center;
   border-radius: 1rem;
   position: relative;
+  border-radius: 1.5rem;
 }
 
 .advice-id {
